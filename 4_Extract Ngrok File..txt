@@ -1,0 +1,4 @@
+2022-02-08T09:46:02.6815189Z ##[group]Run Expand-Archive ngrok.zip
+2022-02-08T09:46:02.6815688Z [36;1mExpand-Archive ngrok.zip[0m
+2022-02-08T09:46:02.6871211Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:46:02.6871583Z ##[endgroup]

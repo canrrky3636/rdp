@@ -1,0 +1,5 @@
+2022-02-08T09:45:39.2546084Z Requested labels: windows-2022
+2022-02-08T09:45:39.2546224Z Job defined at: airdp1/windowsserver6hoursrdp2022/.github/workflows/main.yml@refs/heads/main
+2022-02-08T09:45:39.2546257Z Waiting for a runner to pick up this job...
+2022-02-08T09:45:39.6586338Z Job is waiting for a hosted runner to come online.
+2022-02-08T09:45:44.4203953Z Job is about to start running on the hosted runner: Hosted Agent (hosted)

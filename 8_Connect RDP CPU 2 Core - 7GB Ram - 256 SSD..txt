@@ -1,0 +1,16 @@
+2022-02-08T09:46:21.9792053Z ##[group]Run cmd /c start.bat
+2022-02-08T09:46:21.9792451Z [36;1mcmd /c start.bat[0m
+2022-02-08T09:46:21.9849007Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:46:21.9849357Z ##[endgroup]
+2022-02-08T09:46:23.6418988Z The operation completed successfully.
+2022-02-08T09:46:23.6420418Z 
+2022-02-08T09:46:23.8605301Z The command completed successfully.
+2022-02-08T09:46:23.8606917Z 
+2022-02-08T09:46:25.0287044Z  Successful installation !, If RDP is dead, please rebuild again! 
+2022-02-08T09:46:25.0291237Z IP:
+2022-02-08T09:46:25.5342633Z tcp://0.tcp.ap.ngrok.io:14888
+2022-02-08T09:46:25.5396441Z Username: administrator
+2022-02-08T09:46:25.5400125Z Password: mdtauhid@4
+2022-02-08T09:46:25.5403654Z .
+2022-02-08T09:46:25.5408487Z  RDP has been created.
+2022-02-08T09:46:25.5412649Z  Please Login to Your RDP !

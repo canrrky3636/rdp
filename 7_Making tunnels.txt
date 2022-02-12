@@ -1,0 +1,4 @@
+2022-02-08T09:46:21.2636606Z ##[group]Run Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
+2022-02-08T09:46:21.2637486Z [36;1mStart-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'[0m
+2022-02-08T09:46:21.2692182Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:46:21.2692515Z ##[endgroup]

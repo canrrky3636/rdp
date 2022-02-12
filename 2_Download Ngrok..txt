@@ -1,0 +1,13 @@
+2022-02-08T09:45:50.1683214Z ##[group]Run Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+2022-02-08T09:45:50.1684132Z [36;1m[0m
+2022-02-08T09:45:50.1684766Z [36;1mInvoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip[0m
+2022-02-08T09:45:50.1685312Z [36;1m[0m
+2022-02-08T09:45:50.1686054Z [36;1mInvoke-WebRequest https://raw.githubusercontent.com/airdp1/windowsserver6hoursrdp2022/main/start.bat -OutFile start.bat[0m
+2022-02-08T09:45:50.1686621Z [36;1m[0m
+2022-02-08T09:45:50.1687170Z [36;1mInvoke-WebRequest https://raw.githubusercontent.com/airdp1/windowsserver6hoursrdp2022/main/wallpaper.png -OutFile wallpaper.png[0m
+2022-02-08T09:45:50.1687795Z [36;1m[0m
+2022-02-08T09:45:50.1688617Z [36;1mInvoke-WebRequest https://raw.githubusercontent.com/airdp1/windowsserver6hoursrdp2022/main/wallpaper.bat -OutFile wallpaper.bat[0m
+2022-02-08T09:45:50.1689182Z [36;1m[0m
+2022-02-08T09:45:50.1689936Z [36;1mInvoke-WebRequest https://raw.githubusercontent.com/airdp1/windowsserver6hoursrdp2022/main/loop.bat -OutFile loop.bat[0m
+2022-02-08T09:45:50.1758811Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:45:50.1759376Z ##[endgroup]

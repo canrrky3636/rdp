@@ -1,0 +1,19 @@
+2022-02-08T09:46:05.0150278Z ##[group]Run Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
+2022-02-08T09:46:05.0150998Z [36;1m[0m
+2022-02-08T09:46:05.0151479Z [36;1mSet-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0[0m
+2022-02-08T09:46:05.0151978Z [36;1m[0m
+2022-02-08T09:46:05.0152374Z [36;1mEnable-NetFirewallRule -DisplayGroup "Remote Desktop"[0m
+2022-02-08T09:46:05.0152714Z [36;1m[0m
+2022-02-08T09:46:05.0153276Z [36;1mSet-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "UserAuthentication" -Value 1[0m
+2022-02-08T09:46:05.0153813Z [36;1m[0m
+2022-02-08T09:46:05.0154118Z [36;1mcopy wallpaper.png D:\a\wallpaper.png[0m
+2022-02-08T09:46:05.0154498Z [36;1m[0m
+2022-02-08T09:46:05.0154954Z [36;1mcopy wallpaper.bat D:\a\wallpaper.bat[0m
+2022-02-08T09:46:05.0155269Z [36;1m[0m
+2022-02-08T09:46:05.0155651Z [36;1mcopy Node.js.lnk C:\Users\Public\Desktop\Node.js.lnk[0m
+2022-02-08T09:46:05.0156159Z [36;1m[0m
+2022-02-08T09:46:05.0156510Z [36;1mcopy "Visual Studio 2019.lnk" "C:\Users\Public\Desktop\Visual Studio 2019.lnk"[0m
+2022-02-08T09:46:05.0156921Z [36;1m[0m
+2022-02-08T09:46:05.0157277Z [36;1mcopy "Ganti Password.exe" "C:\Users\Public\Desktop\Ganti Password.exe"[0m
+2022-02-08T09:46:05.0213301Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:46:05.0213744Z ##[endgroup]

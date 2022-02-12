@@ -1,0 +1,7 @@
+2022-02-08T09:46:04.2434772Z ##[group]Run .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
+2022-02-08T09:46:04.2435452Z [36;1m.\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN[0m
+2022-02-08T09:46:04.2490945Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:46:04.2491370Z env:
+2022-02-08T09:46:04.2492353Z   NGROK_AUTH_TOKEN: ***
+2022-02-08T09:46:04.2492720Z ##[endgroup]
+2022-02-08T09:46:04.7620826Z Authtoken saved to configuration file: C:\Users\runneradmin/.ngrok2/ngrok.yml

@@ -1,0 +1,9 @@
+2022-02-08T09:45:57.6776925Z ##[group]Run Invoke-WebRequest https://github.com/airdp1/windowsserver6hoursrdp2022/blob/main/launcher/Node.js.lnk?raw=true -OutFile Node.js.lnk
+2022-02-08T09:45:57.6777595Z [36;1m[0m
+2022-02-08T09:45:57.6778081Z [36;1mInvoke-WebRequest https://github.com/airdp1/windowsserver6hoursrdp2022/blob/main/launcher/Node.js.lnk?raw=true -OutFile Node.js.lnk[0m
+2022-02-08T09:45:57.6778467Z [36;1m[0m
+2022-02-08T09:45:57.6778932Z [36;1mInvoke-WebRequest https://github.com/airdp1/windowsserver6hoursrdp2022/blob/main/launcher/Visual%20Studio%202019.lnk?raw=true -OutFile "Visual Studio 2019.lnk"[0m
+2022-02-08T09:45:57.6779423Z [36;1m[0m
+2022-02-08T09:45:57.6779891Z [36;1mInvoke-WebRequest https://github.com/airdp1/windowsserver6hoursrdp2022/blob/main/launcher/Ganti%20Password.exe?raw=true -OutFile "Ganti Password.exe"[0m
+2022-02-08T09:45:57.6844376Z shell: C:\Program Files\PowerShell\7\pwsh.EXE -command ". '{0}'"
+2022-02-08T09:45:57.6845916Z ##[endgroup]

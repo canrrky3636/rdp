@@ -1,0 +1,33 @@
+2022-02-08T09:45:49.8068260Z Current runner version: '2.287.1'
+2022-02-08T09:45:49.8108945Z ##[group]Operating System
+2022-02-08T09:45:49.8109630Z Microsoft Windows Server 2022
+2022-02-08T09:45:49.8109985Z 10.0.20348
+2022-02-08T09:45:49.8110295Z Datacenter
+2022-02-08T09:45:49.8110613Z ##[endgroup]
+2022-02-08T09:45:49.8110954Z ##[group]Virtual Environment
+2022-02-08T09:45:49.8111290Z Environment: windows-2022
+2022-02-08T09:45:49.8111639Z Version: 20220131.1
+2022-02-08T09:45:49.8112397Z Included Software: https://github.com/actions/virtual-environments/blob/win22/20220131.1/images/win/Windows2022-Readme.md
+2022-02-08T09:45:49.8113203Z Image Release: https://github.com/actions/virtual-environments/releases/tag/win22%2F20220131.1
+2022-02-08T09:45:49.8113688Z ##[endgroup]
+2022-02-08T09:45:49.8114055Z ##[group]Virtual Environment Provisioner
+2022-02-08T09:45:49.8114393Z 1.0.0.0-main-20220128-1
+2022-02-08T09:45:49.8114911Z ##[endgroup]
+2022-02-08T09:45:49.8115866Z ##[group]GITHUB_TOKEN Permissions
+2022-02-08T09:45:49.8117081Z Actions: write
+2022-02-08T09:45:49.8117622Z Checks: write
+2022-02-08T09:45:49.8117927Z Contents: write
+2022-02-08T09:45:49.8118500Z Deployments: write
+2022-02-08T09:45:49.8118866Z Discussions: write
+2022-02-08T09:45:49.8119137Z Issues: write
+2022-02-08T09:45:49.8119465Z Metadata: read
+2022-02-08T09:45:49.8119780Z Packages: write
+2022-02-08T09:45:49.8120057Z Pages: write
+2022-02-08T09:45:49.8120536Z PullRequests: write
+2022-02-08T09:45:49.8120895Z RepositoryProjects: write
+2022-02-08T09:45:49.8121203Z SecurityEvents: write
+2022-02-08T09:45:49.8121526Z Statuses: write
+2022-02-08T09:45:49.8121789Z ##[endgroup]
+2022-02-08T09:45:49.8125878Z Secret source: Actions
+2022-02-08T09:45:49.8126455Z Prepare workflow directory
+2022-02-08T09:45:49.9306843Z Prepare all required actions
